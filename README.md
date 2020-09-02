@@ -4,7 +4,7 @@
 
 The Underlay's purpose is to make knowledge accessible, connectable, and inspectable in service of the public good. Like the web, it is an emergent system and concept. It is built on a set of open source protocols and tools for structuring, storing, and aggregating distributed graph data.
 
-## The Underlay Project
+# The Underlay Project
 
 The Underlay Project is a team of people developing protocols and tools that enable the Underlay to exist. The protocols are expected to have a finite lifetime and are designed in a way that pieces of the technical underpinning of the Underlay can grow and adapt over time.
 

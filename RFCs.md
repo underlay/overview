@@ -17,3 +17,5 @@ The Underlay maintains a RFC (Request for Comments) series to document our ideas
 [**RFC -4: The Future of Knowledge**](https://www.underlay.org/pub/future)
 <br/>*Jul 18, 2018 · Danny Hillis, Samuel Klein, and Travis Rich*
 
+[**RFC -5: The Underlay: A first description**](https://underlay.mit.edu)
+<br/>*Mar 22, 2018 · Danny Hillis, Samuel Klein, and Travis Rich*

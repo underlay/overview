@@ -20,6 +20,9 @@ The Underlay maintains a RFC (Request for Comments) series to document our ideas
 [**About the Underlay**](https://www.underlay.org/pub/tdefqg1q)
 <br/>*Sept 25, 2019 · Joel Gustafson, Samuel Klein, Danny Hillis, Travis Rich, and Gabriel Stein*
 
+[**Data and Model Sharing**](https://www.underlay.org/pub/data-sharing-questions/release/4)
+<br/>*Sept 14, 2019 · Samuel Klein*
+
 [**The Future of Knowledge**](https://www.underlay.org/pub/future)
 <br/>*Jul 18, 2018 · Danny Hillis, Samuel Klein, and Travis Rich*
 

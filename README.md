@@ -1,16 +1,8 @@
-# Underlay
+# The Underlay
 
-Last updated: Sept. 1st, 2020
+**The world’s distributed knowledge graph**
 
-## Table of Contents
-
-- [The Underlay](#the-underlay)
-- [The Underlay Project](#the-underlay-project)
-- [ARC Protocol](#arc-protocol)
-- [Collection Server Protocol](#collection-server-protocol)
-- [R1 Registry](#r1-registry)
-
-## The Underlay
+The Underlay's purpose is to make knowledge accessible, connectable, and inspectable in service of the public good. Like the web, it is an emergent system and concept. It is built on a set of open source protocols and tools for structuring, storing, and aggregating distributed graph data.
 
 The Underlay is a distributed knowledge graph. It is an emergent structure that arises from a network, similar to the World Wide Web. 
 
@@ -18,16 +10,18 @@ The Underlay is a distributed knowledge graph. It is an emergent structure that 
 
 The Underlay project is a team of people developing protocols and tools that enable the Underlay to exist. The protocols are expected to have a finite lifetime and are designed in a way that pieces of the technical underpinning of the Underlay can grow and adapt over time.
 
-The project currently has three focuses:
-- ARC protocol
-- Collection Server protocol
-- R1 registry
+The primary technical focuses of the Underlay Project will be documented in this repo:
+
+- [ARC Protocol](#arc-protocol)
+- [Collection Server Protocol](#collection-server-protocol)
+- [R1 Registry](#r1-registry)
+
 
 ## ARC Protocol
 
 The ARC protocol defines the core data model and schema language for the Underlay. ARC stands for 'Assertions, Reduction, Collections'.
 
-The basic premise is to structure knowledge graphs as a series of positive immutable statements called _assertions_. These transactional assertions are transformed into a singular materialized view through a process called _reduction_. Assertions can be grouped together in _collections_ which define the schema and reduction mechanics. These collections are designed to be published, shared, and integrated into other collections.
+The basic premise is to structure knowledge graphs as a series of positive immutable statements called _assertions_. These transactional assertions are transformed into a singular materialized state through a process called _reduction_. Assertions can be grouped together in _collections_ which define the schema and reduction mechanics. These collections are designed to be published, shared, and integrated into other collections.
 
 The ARC protocol is developed and documented in the [underlay/arc-protocol](https://github.com/underlay/arc-protocol/) repo.
 

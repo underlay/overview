@@ -9,7 +9,7 @@ The Underlay maintains a RFC (Request for Comments) series to document our ideas
 <br/>*Jul 2, 2020 · Danny Hillis*
 
 [**RFC -2: Open Research Questions**](https://www.underlay.org/pub/research-questions/draft)
-<br/>*Nov 26, 2019 · Danny Hillis*
+<br/>*Nov 26, 2019 · Joel Gustafson*
 
 [**RFC -3: About the Underlay**](https://www.underlay.org/pub/tdefqg1q)
 <br/>*Sept 25, 2019 · Joel Gustafson, Samuel Klein, Danny Hillis, Travis Rich, and Gabriel Stein*

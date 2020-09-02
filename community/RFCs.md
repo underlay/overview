@@ -1,8 +1,8 @@
 # RFCs
 
-The Underlay maintains a RFC (Request for Comments) series to document our ideas, proposals, progress, and plans. RFCs represent snapshots of thinking and may contain outdated or deprecated ideas. Read Danny Hillis's [**RFC 0**]() for a more through description of the Underlay RFC series. Historical writings may be mapped into this RFC series with negative numbering (e.g. RFC -2).
+The Underlay maintains a RFC (Request for Comments) series to document our ideas, proposals, progress, and plans. RFCs represent snapshots of thinking and may contain outdated or deprecated ideas. For a more thorough description, see Danny Hillis's [**RFC 0**](https://www.underlay.org/pub/urfcs/release/1). Historical documents may be mapped into this RFC series with negative numbering (e.g. RFC -2).
 
-[**RFC 0: Underlay RFCs**]()
+[**RFC 0: Underlay RFCs**](https://www.underlay.org/pub/urfcs/release/1)
 <br/>*Aug 2, 2020 · Danny Hillis*
 
 ## Historical RFCs

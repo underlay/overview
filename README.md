@@ -4,18 +4,17 @@
 
 The Underlay's purpose is to make knowledge accessible, connectable, and inspectable in service of the public good. Like the web, it is an emergent system and concept. It is built on a set of open source protocols and tools for structuring, storing, and aggregating distributed graph data.
 
-The Underlay is a distributed knowledge graph. It is an emergent structure that arises from a network, similar to the World Wide Web. 
-
 ## The Underlay Project
 
-The Underlay project is a team of people developing protocols and tools that enable the Underlay to exist. The protocols are expected to have a finite lifetime and are designed in a way that pieces of the technical underpinning of the Underlay can grow and adapt over time.
+The Underlay Project is a team of people developing protocols and tools that enable the Underlay to exist. The protocols are expected to have a finite lifetime and are designed in a way that pieces of the technical underpinning of the Underlay can grow and adapt over time.
 
-The primary technical focuses of the Underlay Project will be documented in this repo:
+The primary focuses of the Underlay Project will be documented in this repo:
 
+<!-- no toc -->
 - [ARC Protocol](#arc-protocol)
 - [Collection Server Protocol](#collection-server-protocol)
 - [R1 Registry](#r1-registry)
-
+- [Community](#community)
 
 ## ARC Protocol
 
@@ -35,4 +34,14 @@ The Collection Server Protocol is developed and document in the [underlay/collec
 
 A registry is a hosted instance of a collection server that manages collections and implements usage policies. Registries can implement query capabilities, user authentication, social structures that facilitate collaboration, or other policies the maintainers deem useful. Registries in the Underlay are analogous to websites.
 
-R1 is the name of the first registry being developed by the Underlay project. It is developed in the [underlay/r1](https://github.com/underlay/r1/) repo and accessible at https://r1.underlay.org.
+R1 is the name of the first registry being developed by the Underlay Project. It is developed in the [underlay/r1](https://github.com/underlay/r1/) repo and accessible at https://r1.underlay.org.
+
+
+## Community
+
+The Underlay Project writes, hosts events, and invites contribution from all who are interested in contributing to the Underlay. This section captures our work to make the Underlay accessible to all.
+
+- [Frequently Asked Questions](FAQ.md)
+- [RFCs](RFCs.md)
+- [Subscribe to the Underlay Newsletter](https://eepurl.com/gJL39b)
+- [Contact the Team](mailto:team@underlay.org)

@@ -5,5 +5,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 - Created repository and adapted initial copy from Underlay Overview_v2.
+- Add Community section to included FAQ from old underlay.org site, list RFCs, and provide links to other contact methods.
 
 <!-- ## [0.0.1] - 2020-09-01 -->

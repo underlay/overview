@@ -41,7 +41,7 @@ R1 is the name of the first registry being developed by the Underlay Project. It
 
 The Underlay Project writes, hosts events, and invites contribution from all who are interested in contributing to the Underlay. This section captures our work to make the Underlay accessible to all.
 
-- [Frequently Asked Questions](FAQ.md)
-- [RFCs](RFCs.md)
+- [Frequently Asked Questions](community/FAQ.md)
+- [RFCs](community/RFCs.md)
 - [Subscribe to the Underlay Newsletter](https://eepurl.com/gJL39b)
 - [Contact the Team](mailto:team@underlay.org)

@@ -23,6 +23,9 @@ The Underlay maintains a RFC (Request for Comments) series to document our ideas
 [**Data and Model Sharing**](https://www.underlay.org/pub/data-sharing-questions/release/4)
 <br/>*Sept 14, 2019 · Samuel Klein*
 
+[**Underlay Architecture**](https://notes.knowledgefutures.org/pub/underlay-architecture/release/4)
+<br/>*Apr 24, 2019 · Joel Gustafson*
+
 [**The Future of Knowledge**](https://www.underlay.org/pub/future)
 <br/>*Jul 18, 2018 · Danny Hillis, Samuel Klein, and Travis Rich*
 

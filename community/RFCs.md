@@ -27,4 +27,3 @@ The Underlay maintains a RFC (Request for Comments) series to document our ideas
 
 [**RFC -7: First Underlay site**](https://underlay.mit.edu)
 <br/>*Mar 22, 2018 · Danny Hillis, Samuel Klein, and Travis Rich*
-

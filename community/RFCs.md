@@ -19,11 +19,14 @@ The Underlay maintains a RFC (Request for Comments) series to document our ideas
 [**RFC -4: Data and Model Sharing**](https://www.underlay.org/pub/data-sharing-questions/release/4)
 <br/>*Sept 14, 2019 · Samuel Klein*
 
-[**RFC -5: The Future of Knowledge**](https://www.underlay.org/pub/future)
+[**RFC -5: Underlay Architecture**](https://notes.knowledgefutures.org/pub/underlay-architecture/release/4)
+<br/>*Apr 24, 2019 · Joel Gustafson*
+
+[**RFC -6: The Future of Knowledge**](https://www.underlay.org/pub/future)
 <br/>*Jul 18, 2018 · Danny Hillis, Samuel Klein, and Travis Rich*
 
-[**RFC -6: Patterns for Crystallizing Knowledge**](https://www.underlay.org/pub/up)
+[**RFC -7: Patterns for Crystallizing Knowledge**](https://www.underlay.org/pub/up)
 <br/>*Jul 9, 2018 · Samuel Klein*
 
-[**RFC -7: First Underlay site**](https://underlay.mit.edu)
+[**RFC -8: First Underlay site**](https://underlay.mit.edu)
 <br/>*Mar 22, 2018 · Danny Hillis, Samuel Klein, and Travis Rich*

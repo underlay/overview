@@ -8,30 +8,26 @@ The Underlay maintains a RFC (Request for Comments) series to document our ideas
 
 ## Historical documents
 
-[**RFC -1: Understander: A Science annotator**](https://notes.knowledgefutures.org/pub/annotator/release/2)
+[**RFC -1: Understander: A Science Annotator**](https://notes.knowledgefutures.org/pub/annotator/release/2)
 <br/>*May 14, 2020 · Samuel Klein* 
 
-[**RFC -2: Open Research Questions (2019)**](https://notes.knowledgefutures.org/pub/research-questions)
+[**RFC -2: Open Research Questions (2019)**](https://notes.knowledgefutures.org/pub/research-questions/release/1)
 <br/>*Nov 26, 2019 · Joel Gustafson*
 
-[**RFC -3: Content-Addressing Semantic Data**](https://notes.knowledgefutures.org/pub/ic0grz58) 
-<br/>*Oct 24, 2019 · last updated Aug 31, 2020 · Joel Gustafson*
+[**RFC -3: Content-Addressing Semantic Data**](https://notes.knowledgefutures.org/pub/ic0grz58/release/3) 
+<br/>*Oct 24, 2019 (updated Aug 31, 2020) · Joel Gustafson*
 
 [**RFC -4: Data and Model Sharing**](https://notes.knowledgefutures.org/pub/data-sharing-questions/release/4)
-<br/>*Sept 14, 2019 · Samuel Klein*
+<br/>*Sept 17, 2019 · Samuel Klein*
 
 [**RFC -5: Underlay Architecture**](https://notes.knowledgefutures.org/pub/underlay-architecture/release/4)
-<br/>*Joel Gustafson*
-<br/>*Apr 24, 2019 · Updated June 20, 2020*
+<br/>*Apr 24, 2019 · Joel Gustafson*
 
-[**RFC -6: The Future of Knowledge**](https://notes.knowledgefutures.org/pub/future)
-<br/>*Danny Hillis, Samuel Klein, and Travis Rich*
-<br/>*Published Jul 18, 2018 · Updated June 20, 2020*
+[**RFC -6: The Future of Knowledge**](https://notes.knowledgefutures.org/pub/future/release/5)
+<br/>*Jul 18, 2018 · Danny Hillis, Samuel Klein, and Travis Rich*
 
-[**RFC -7: Patterns for Crystallizing Knowledge**](https://notes.knowledgefutures.org/pub/up)
-<br/>*Jul 9, 2018 (Updated March 15, 2020)*
-<br/>*Samuel Klein*
+[**RFC -7: Patterns for Crystallizing Knowledge**](https://notes.knowledgefutures.org/pub/up/release/5)
+<br/>*Jul 9, 2018 · Samuel Klein*
 
-[**RFC -8: First Underlay site**](https://underlay.mit.edu)
+[**RFC -8: Underlay: A First Description**](https://notes.knowledgefutures.org/pub/h67iji6d/release/1)
 <br/>*Mar 22, 2018 · Danny Hillis, Samuel Klein, and Travis Rich*
-<br/>*Updated June 3, 2020*

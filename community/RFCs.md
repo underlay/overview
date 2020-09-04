@@ -22,11 +22,11 @@ The Underlay maintains a RFC (Request for Comments) series to document our ideas
 
 [**RFC -5: Underlay Architecture**](https://notes.knowledgefutures.org/pub/underlay-architecture/release/4)
 <br/>*Joel Gustafson*
-<br/>*Apr 24, 2019 · Updated June 20, 2020
+<br/>*Apr 24, 2019 · Updated June 20, 2020*
 
 [**RFC -6: The Future of Knowledge**](https://notes.knowledgefutures.org/pub/future)
 <br/>*Danny Hillis, Samuel Klein, and Travis Rich*
-<br/>*Published Jul 18, 2018 · Updated June 20, 2020
+<br/>*Published Jul 18, 2018 · Updated June 20, 2020*
 
 [**RFC -7: Patterns for Crystallizing Knowledge**](https://notes.knowledgefutures.org/pub/up)
 <br/>*Jul 9, 2018 (Updated March 15, 2020)*

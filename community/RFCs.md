@@ -17,8 +17,8 @@ The Underlay maintains a RFC (Request for Comments) series to document our ideas
 [**RFC -3: Content-Addressing Semantic Data**](https://notes.knowledgefutures.org/pub/ic0grz58/release/3) 
 <br/>*Oct 24, 2019 (updated Aug 31, 2020) · Joel Gustafson*
 
-[**RFC -4: Data and Model Sharing**](https://notes.knowledgefutures.org/pub/data-sharing-questions/release/4)
-<br/>*Sept 17, 2019 · Samuel Klein*
+[**RFC -4: Data and Model Sharing**](https://notes.knowledgefutures.org/pub/data-sharing-questions/release/16)
+<br/>*Sept 17, 2019 (updated Sep 20, 2020) · Samuel Klein*
 
 [**RFC -5: Underlay Architecture**](https://notes.knowledgefutures.org/pub/underlay-architecture/release/4)
 <br/>*Apr 24, 2019 · Joel Gustafson*

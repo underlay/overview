@@ -18,7 +18,7 @@ Knowledge is often exchanged in formats optimized for computers, and then used t
 
 # How does the Underlay work?
 
-The Underlay represents knowledge in the form of relationships between entities, for example the relationship between an author and a book, or a location and its current temperature. This method of representing knowledge is call a knowledge graph, and it can be used to represent any type of machine-readable information. The Underlay is premised on the idea that a knowledge graph can be constructed from a series of distributed transactions called **assertions**. Multiple assertions are combined through a process called **reduction** and can be curated into useful groupings using **collections**.
+The Underlay represents knowledge in the form of relationships between entities, for example the relationship between an author and a book, or a location and its current temperature. This method of representing knowledge is called a knowledge graph, and it can be used to represent any type of machine-readable information. The Underlay is premised on the idea that a knowledge graph can be constructed from a series of distributed transactions called **assertions**. Multiple assertions are combined through a process called **reduction** and can be curated into useful groupings using **collections**.
 
 The Underlay differs from most other knowledge graphs in that it represents not only the information, but the provenance of that information: where came from and what others have to say about it.
 
